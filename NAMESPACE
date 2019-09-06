@@ -1,2 +1,3 @@
 useDynLib(passe)
 exportPattern("^[[:alpha:]]+")
+export(fast.bisse, passe)
